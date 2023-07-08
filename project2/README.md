@@ -1,4 +1,4 @@
-# Free Code Camp - Prject 2 "Tribue Page"
+# Free Code Camp - Project 2 "Tribue Page"
 
 Was completed on June 25th 2023. 
 
